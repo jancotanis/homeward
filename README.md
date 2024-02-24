@@ -1,5 +1,5 @@
 # Hudu API
-[![Version](https://img.shields.io/gem/v/homewizard.svg)](https://rubygems.org/gems/hudu)
+[![Version](https://img.shields.io/gem/v/homewizard.svg)](https://rubygems.org/gems/homewizard)
 
 This is a wrapper for the HomeWizard rest API.
 
